@@ -27,16 +27,15 @@ const About = () => {
               <span ref={textRef}></span>
             </h3>
             <div className="about">
-                
-                <p className="info">
-                  I am a full-time software development student with the goal of
-                  being a full-stack software engineer. I have a fierce joy for
-                  learning and a desire to understand the way things work.
-                  Determined and analytical, I never give up once I set my mind
-                  to something.
-                </p>
-                
-              </div>
+              <p className="info">
+                I am a full-time student that has expressed interest in the
+                field of Full-Stack Web Development. I am currently enrolled in the
+                Software Development program at Grand Canyon University. I have
+                a passion for learning and problem solving and a desire to
+                understand the way things work. Determined and analytical, I
+                never give up once I set my mind to something.
+              </p>
+            </div>
             <div className="hero-card-text">
               <h3>
                 Goal Driven technoligist with a passion for Software Development
@@ -49,13 +48,11 @@ const About = () => {
                   <img className="logo" src={images.linkedin} alt="linkdien" />
                 </a>
               </div>
-              
             </div>
           </div>
           <div className="hero-card-image">
             <img src={images.profile} alt="hero" />
           </div>
-          
         </div>
       </div>
     </>
