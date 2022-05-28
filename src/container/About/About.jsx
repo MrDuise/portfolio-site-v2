@@ -28,8 +28,7 @@ const About = () => {
             </h3>
             <div className="about">
               <p className="info">
-                I am a full-time student that has expressed interest in the
-                field of Full-Stack Web Development. I am currently enrolled in the
+                I am a full-time student currently enrolled in the
                 Software Development program at Grand Canyon University. I have
                 a passion for learning and problem solving and a desire to
                 understand the way things work. Determined and analytical, I
