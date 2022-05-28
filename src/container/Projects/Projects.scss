@@ -11,6 +11,13 @@
    color: var(--white-color);
  }
  
+ .sub-title{
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: var(--white-color);
+    margin-top: 10px;
+ }
  .projects {
     display: flex;
     flex-wrap: wrap;
