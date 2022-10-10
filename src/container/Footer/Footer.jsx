@@ -11,7 +11,7 @@ const Footer = () => {
         <h2 className="head-text">Contact</h2>
 
         <div className="app__footer-form app__flex">
-          <form action="https://formsubmit.co/mrduise@gmail.com" method="POST">
+          <form action="https://formsubmit.co/3b6507d7ae009379565db3b008504553" method="POST">
             <div className="app__flex">
               <input
                 className="p-text"
