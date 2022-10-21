@@ -21,7 +21,7 @@ const SkillList = {
             image: images.node
         },
         {
-            title: 'HTML5',
+            title: 'HT​ML5',
             
             image: images.html
         },
@@ -38,7 +38,7 @@ const SkillList = {
         
         
         {
-            title: 'Express.js',
+            title: '​Express.js',
             image: images.node
 
         },
@@ -51,10 +51,13 @@ const SkillList = {
             image: images.mysql
         },
         {
-            title: 'Python',
+            title: 'Py​thon',
             image: images.python
         },
-        
+        {
+            title: 'Java',
+            image: images.python
+        },
         
     ]
     
